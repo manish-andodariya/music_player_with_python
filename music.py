@@ -7,7 +7,7 @@ mixer.music.set_volume(volume)
 mixer.music.play();
 
 while True:
-    print("Press p to Pause || Press r to resume || Press e to Exit || Press + to Volume up || Press - to Volume down ")
+    print("Press p to Pause || Press r to resume || Press q to Quit || Press + to Volume up || Press - to Volume down ")
     query = input(">>> ")
 
     if query == 'p':
