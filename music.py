@@ -23,3 +23,17 @@ while True:
     elif query == 'e':
         mixer.music.stop()
         break
+
+
+main 1 code
+main no code
+switch main 1
+merge main 1
+git push main
+both are same
+both`s head diff
+checkout main
+main merge
+2 times merge
+
+
