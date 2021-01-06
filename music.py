@@ -7,7 +7,7 @@ mixer.music.set_volume(volume)
 mixer.music.play();
 
 while True:
-    print("Press p to Pause || Press r to resume || Press q to Quit || Press + to Volume up || Press - to Volume down ")
+    print("Press P to Pause || Press R to resume || Press Q to Quit || Press + to Volume up || Press - to Volume down ")//user enter inputs in small case
     query = input(">>> ")
 
     if query == 'p':
@@ -23,3 +23,17 @@ while True:
     elif query == 'e':
         mixer.music.stop()
         break
+
+
+main 1 code
+main no code
+switch main 1
+merge main 1
+git push main
+both are same
+both`s head diff
+checkout main
+main merge
+2 times merge
+
+
